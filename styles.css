@@ -1,0 +1,10 @@
+html,
+body {
+  border: 0;
+  font-family: "VCR", Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  color: #aa0ca2;
+  background-color: #202020;
+}
